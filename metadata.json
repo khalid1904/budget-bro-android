@@ -1,0 +1,6 @@
+{
+  "name": "Budget Bro",
+  "description": "Offline-first personal expense and budget management app for Indian users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
